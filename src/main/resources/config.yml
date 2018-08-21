@@ -1,0 +1,5 @@
+messages:
+  player-frozen: "&b[&7InvFreeze&b] {player}'s inventory is now frozen."
+  player-unfrozen: "&b[&7InvFreeze&b] {player}'s inventory is now unfrozen."
+  freeze: "&b[&7InvFreeze&b] /freezeonon <player>"
+  unfreeze: "&b[&7InvFreeze&b] /invfreeze off <player>"
