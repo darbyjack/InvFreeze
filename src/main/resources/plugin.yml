@@ -3,11 +3,3 @@ version: ${project.version}
 main: me.glaremasters.invfreeze.InvFreeze
 authors: [blockslayer22]
 description: InvFreeze
-
-commands:
-  freezeon:
-    description: freeze player inventory
-  freezeoff:
-    description: unfreeze player inventory
-  invfreeze:
-    description: list commands
